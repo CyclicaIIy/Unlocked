@@ -1,0 +1,9 @@
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\bin\x86\Debug\Unlocked.exe.config
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\bin\x86\Debug\Unlocked.exe
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\bin\x86\Debug\Unlocked.pdb
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\x86\Debug\Unlocked.mainForm.resources
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\x86\Debug\Unlocked.Properties.Resources.resources
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\x86\Debug\Unlocked.csproj.GenerateResource.cache
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\x86\Debug\Unlocked.csproj.CoreCompileInputs.cache
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\x86\Debug\Unlocked.exe
+C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\x86\Debug\Unlocked.pdb
