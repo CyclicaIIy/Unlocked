@@ -1,8 +1,0 @@
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\bin\Debug\Unlocked.exe.config
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\bin\Debug\Unlocked.exe
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\Debug\Unlocked.Properties.Resources.resources
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\Debug\Unlocked.csproj.GenerateResource.cache
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\Debug\Unlocked.csproj.CoreCompileInputs.cache
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\Debug\Unlocked.exe
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\Debug\Unlocked.mainForm.resources
-C:\Users\leima\Desktop\Projects\Unlocked\Unlocked\obj\Debug\Unlocked.csprojAssemblyReference.cache
